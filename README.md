@@ -1,6 +1,9 @@
 # Enhance Sitecore Cache.aspx
 The chrome extension for enhancing the Sitecore's cache.aspx page.  
 
+**NOTE:**
+If you want a comprehensive tool for content authoring, consider using the [Sitecore Author Toolbox](https://chrome.google.com/webstore/detail/sitecore-author-toolbox/mckfcmcdbgkgffdknpkaihjigmcnnbco) instead. That extension includes the same feature as this one.
+
 ## Installation
 This extension is available on chrome web store.
 
@@ -9,5 +12,8 @@ This extension is available on chrome web store.
 ## Screenshot
 ![](img/screenshot.png)
 
+## See also
+- [Sitecore Author Toolbox - Chrome Web Store](https://chrome.google.com/webstore/detail/sitecore-author-toolbox/mckfcmcdbgkgffdknpkaihjigmcnnbco)
+
 ## Author
-- T.Yamada (xirtardauq@gmail.com)
+- Takumi Yamada (xirtardauq@gmail.com)
